@@ -6,9 +6,9 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building CS-GO Cheat
-- 🌱 I’m currently learning more about C++.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
+- 🌱 I’m currently learning more about C++
+- 💬 Ask me about Flutter or any tech-related stuff
+- 📫 How to reach me: Check social links below
 
 # 💻 Sociale :
 - Norde - [YouTube](https://www.youtube.com/channel/UCzCu3J9kK-n7plWndyF7n5A)
