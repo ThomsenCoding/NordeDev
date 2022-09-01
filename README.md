@@ -5,7 +5,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building CS-GO Cheat
+- 🔭 I’m currently building Exield Cheat
 - 🌱 I’m currently learning more about C++
 - 💬 Ask me about Flutter or any tech-related stuff
 - 📫 How to reach me: Check social links below
