@@ -14,4 +14,4 @@
 - Norde - [YouTube](https://www.youtube.com/channel/UCzCu3J9kK-n7plWndyF7n5A)
 - NordeDev - [Twitch](https://www.twitch.tv/teeqzertv)
 - Norde_Dev - [Twitter](https://twitter.com/Norde_Dev)
-- Ghost Cheat - [Discord](https://discord.gg/bn84S2EgJq)
+- Exield Cheat - [Discord](https://discord.gg/yKQUwydA3f)
