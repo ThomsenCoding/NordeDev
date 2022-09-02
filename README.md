@@ -16,5 +16,5 @@
 - Norde_Dev - [Twitter](https://twitter.com/Norde_Dev)
 - Exield Cheat - [Discord](https://discord.gg/yKQUwydA3f)
 
-# Profile Views
+# 👨‍🎓 Profile Info :
 ![](https://komarev.com/ghpvc/?username=NordeDev&color=grey)
