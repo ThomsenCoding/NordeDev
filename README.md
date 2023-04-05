@@ -2,9 +2,7 @@
 · HI DEVS, WELCOME ON MY PROFILE ·
 </h2>
 
-- 🧠 2nd year student at Epitech
-- 🐳 Learning C C++ JS Python Shell Scripting and more
-- 🐲 Passionate about playing and making video games
+- 🐳 Learning C++ Javascript Python and more
 - 🎏 Free software enthusiast
 
 <h3 align="center">
