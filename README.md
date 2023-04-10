@@ -1,7 +1,7 @@
 <!-- https://github.com/Smug246/ -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-<h1 align="center">Hi 👋 I'm Norde</h1>
+<h1 align="center">Hi I'm Norde</h1>
 <h3 align="center">I'm developer from the Danmark</h3>
 
 <p align="center"> 
