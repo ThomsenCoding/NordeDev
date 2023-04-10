@@ -1,44 +1,26 @@
-<h2 align="center">
-· HI DEVS, WELCOME ON MY PROFILE ·
-</h2>
+<!-- https://github.com/Smug246/ -->
+<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-- 🐳 Learning C++ Javascript Python and more
-- 🎏 Free software enthusiast
+<h1 align="center">Hi 👋 I'm Smug</h1>
+<h3 align="center">I'm a python developer from the UK</h3>
 
-<h3 align="center">
-· GITHUB STATS OVERVIEW ·
-</h3>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=smug246&label=Profile%20views&color=5c12df&style=flat" alt="smug246" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Smug246" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Smug246" alt="Profile Forks"></a>
+</p>
 
-<!--START_SECTION:GITHUB_STATS-->
-🌉 - Working hours stats
-```text
-Morning    : ####····················· 16%
-Afternoon  : #########················ 34%
-Evening    : ########················· 33%
-Night      : ####····················· 17%
-```
-📅 - Working days stats
-```text
-Monday     : ###······················ 13%
-Tuesday    : ####····················· 14%
-Wednesday  : ###······················ 13%
-Thursday   : ####····················· 15%
-Friday     : ###······················ 12%
-Saturday   : ####····················· 16%
-Sunday     : ####····················· 17%
-```
-📊 - Top languages
-```text
-C#          : ################········· 58%
-C++         : #························ 8%
-python      : ##########··············· 38%
-Javascript  : #························ 6%
-```
-🎏 - Quick overview of my profile
-```text
-👥 - Followers: 2
-👤 - Following: 0
-📂 - Public repositories: 5
-🔒 - Private repositories: 7
-```
-<!--END_SECTION:GITHUB_STATS-->
+
+- 🌱 I’m currently learning **C++**
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories)
+
+- 📫 You can reach me by joining my [telegram](https://t.me/lunaxsmug) or [discord server](https://discord.gg/tNMdkpW7EU)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20an%20object%2Doriented,be%20adapted%20to%20multiple%20platforms." target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c-plus-plus" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+</p>
