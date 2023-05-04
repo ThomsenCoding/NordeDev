@@ -15,4 +15,4 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/NordeDev?tab=repositories)
 
-- 📫 You can reach me by joining my [Discord](https://discord.gg/m-market)
+- 📫 You can reach me by joining my [Discord](discord.gg/nordeservices)
